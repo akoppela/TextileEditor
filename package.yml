@@ -4,4 +4,4 @@ description: Textile Editor
 license: Public domain, http://unlicense.org
 authors: Yaroslaff Fedin
 sources:
-  - Source/TextileEditor.js
+  - Source/Editor.js
