@@ -6,6 +6,9 @@ script: TextileEditor.js
 description: class for keyboard navigable AJAX widgets for better usability and accessibility
  
 license: MIT-style license.
+
+requires:
+ - Core/Class
  
 provides: [TextileEditor]
  
